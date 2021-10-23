@@ -1,0 +1,1217 @@
+
+|0|0|0|0|0|0|0| => 0
+Given Haircuts = 0
+Salon full = 0 times
+Salon Empty = 1 times
+
+|0|0|0|0|0|0|0| => 0
+Given Haircuts = 0
+Salon full = 0 times
+Salon Empty = 2 times
+
+|1|0|0|0|0|0|0| => 1
+Given Haircuts = 0
+Salon full = 0 times
+Salon Empty = 2 times
+
+|1|0|0|0|0|0|0| => 1
+
+|1|0|0|0|0|0|0| => 1
+Given Haircuts = 0
+Salon full = 0 times
+Salon Empty = 2 times
+Given Haircuts = 0
+Salon full = 0 times
+Salon Empty = 2 times
+
+|1|1|1|0|0|0|0| => 3
+Given Haircuts = 1
+Salon full = 0 times
+Salon Empty = 2 times
+
+|1|1|0|0|0|0|0| => 2
+Given Haircuts = 2
+Salon full = 0 times
+Salon Empty = 2 times
+
+|1|0|0|0|0|0|0| => 1
+Given Haircuts = 3
+Salon full = 0 times
+Salon Empty = 2 times
+
+|0|0|0|0|0|0|0| => 0
+Given Haircuts = 4
+Salon full = 0 times
+Salon Empty = 3 times
+
+|0|0|0|0|0|0|0| => 0
+Given Haircuts = 4
+Salon full = 0 times
+Salon Empty = 4 times
+
+|0|0|0|0|0|0|0| => 0
+Given Haircuts = 4
+Salon full = 0 times
+Salon Empty = 5 times
+
+|1|0|0|0|0|0|0| => 1
+Given Haircuts = 5
+Salon full = 0 times
+Salon Empty = 5 times
+
+|0|0|0|0|0|0|0| => 0
+Given Haircuts = 6
+Salon full = 0 times
+Salon Empty = 6 times
+
+|0|0|0|0|0|0|0| => 0
+Given Haircuts = 6
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|0|0|0|0|0|0| => 1
+Given Haircuts = 6
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|0|0|0|0|0| => 2
+Given Haircuts = 6
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|0|0|0|0| => 3
+Given Haircuts = 6
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|1|0|0|0| => 4
+Given Haircuts = 6
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|1|0|0|0| => 4
+Given Haircuts = 6
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|0|0| => 5
+Given Haircuts = 7
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|1|0|0|0| => 4
+Given Haircuts = 7
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|0|0| => 5
+Given Haircuts = 8
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|1|0|0|0| => 4
+Given Haircuts = 8
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|0|0| => 5
+Given Haircuts = 8
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|1|0| => 6
+Given Haircuts = 9
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|0|0| => 5
+Given Haircuts = 9
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|1|0| => 6
+Given Haircuts = 10
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|0|0| => 5
+Given Haircuts = 11
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|1|0|0|0| => 4
+Given Haircuts = 12
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|0|0|0|0| => 3
+Given Haircuts = 12
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|1|0|0|0| => 4
+Given Haircuts = 12
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|0|0| => 5
+Given Haircuts = 13
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|1|0|0|0| => 4
+Given Haircuts = 13
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|0|0| => 5
+Given Haircuts = 14
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|1|0|0|0| => 4
+Given Haircuts = 14
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|0|0| => 5
+Given Haircuts = 15
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|1|0|0|0| => 4
+Given Haircuts = 15
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|0|0| => 5
+Given Haircuts = 16
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|1|0|0|0| => 4
+Given Haircuts = 16
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|0|0| => 5
+Given Haircuts = 17
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|1|0|0|0| => 4
+Given Haircuts = 17
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|0|0| => 5
+Given Haircuts = 18
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|1|0|0|0| => 4
+Given Haircuts = 18
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|0|0| => 5
+Given Haircuts = 19
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|1|0|0|0| => 4
+Given Haircuts = 20
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|1|0|0|0| => 4
+Given Haircuts = 19
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|1|0|0|0| => 4
+Given Haircuts = 21
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|0|0|0|0| => 3
+Given Haircuts = 21
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|1|0|0|0| => 4
+Given Haircuts = 22
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|0|0|0|0| => 3
+Given Haircuts = 22
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|1|0|0|0| => 4
+Given Haircuts = 23
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|0|0|0|0| => 3
+Given Haircuts = 23
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|1|0|0|0| => 4
+Given Haircuts = 24
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|0|0|0|0| => 3
+Given Haircuts = 24
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|1|0|0|0| => 4
+Given Haircuts = 25
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|0|0|0|0| => 3
+Given Haircuts = 25
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|1|0|0|0| => 4
+Given Haircuts = 26
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|0|0|0|0| => 3
+Given Haircuts = 26
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|1|0|0|0| => 4
+Given Haircuts = 27
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|0|0|0|0| => 3
+Given Haircuts = 27
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|1|0|0|0| => 4
+Given Haircuts = 28
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|0|0|0|0| => 3
+Given Haircuts = 28
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|1|0|0|0| => 4
+Given Haircuts = 29
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|0|0|0|0| => 3
+Given Haircuts = 29
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|1|0|0|0| => 4
+Given Haircuts = 30
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|0|0|0|0| => 3
+Given Haircuts = 30
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|1|0|0|0| => 4
+Given Haircuts = 31
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|0|0|0|0| => 3
+Given Haircuts = 31
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|1|0|0|0| => 4
+Given Haircuts = 32
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|1|0|0|0| => 4
+Given Haircuts = 32
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|1|0|0|0| => 4
+Given Haircuts = 32
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|1|0|0|0| => 4
+Given Haircuts = 33
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|1|0|0|0| => 4
+Given Haircuts = 33
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|1|0|0|0| => 4
+Given Haircuts = 34
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|1|0|0|0| => 4
+Given Haircuts = 34
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|0|0| => 5
+Given Haircuts = 35
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|1|0|0|0| => 4
+Given Haircuts = 35
+
+|1|1|1|1|0|0|0| => 4
+Salon full = 0 times
+Given Haircuts = 36
+Salon full = 0 times
+Salon Empty = 7 times
+Salon Empty = 7 times
+
+|1|1|1|1|0|0|0| => 4
+Given Haircuts = 36
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|0|0| => 5
+Given Haircuts = 37
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|1|0|0|0| => 4
+Given Haircuts = 37
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|0|0| => 5
+Given Haircuts = 38
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|1|0|0|0| => 4
+Given Haircuts = 38
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|0|0| => 5
+Given Haircuts = 39
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|1|0|0|0| => 4
+Given Haircuts = 39
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|0|0| => 5
+Given Haircuts = 40
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|1|0|0|0| => 4
+Given Haircuts = 40
+
+|1|1|1|1|0|0|0| => 4
+Salon full = 0 times
+Given Haircuts = 41
+Salon full = 0 times
+Salon Empty = 7 times
+Salon Empty = 7 times
+
+|1|1|1|1|0|0|0| => 4
+Given Haircuts = 41
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|0|0| => 5
+Given Haircuts = 42
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|1|0|0|0| => 4
+Given Haircuts = 42
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|0|0| => 5
+Given Haircuts = 43
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|1|0|0|0| => 4
+Given Haircuts = 43
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|0|0| => 5
+Given Haircuts = 44
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|1|0|0|0| => 4
+
+|1|1|1|1|0|0|0| => 4
+Given Haircuts = 45
+Salon full = 0 times
+Salon Empty = 7 times
+Given Haircuts = 44
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|1|0|0|0| => 4
+Given Haircuts = 46
+
+|1|1|1|1|0|0|0| => 4
+Given Haircuts = 45
+Salon full = 0 times
+Salon Empty = 7 times
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|0|0| => 5
+Given Haircuts = 46
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|0|0| => 5
+Given Haircuts = 47
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|0|0| => 5
+Given Haircuts = 47
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|0|0| => 5
+Given Haircuts = 48
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|1|0|0|0| => 4
+Given Haircuts = 49
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|0|0|0|0| => 3
+Given Haircuts = 49
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|1|0|0|0| => 4
+Given Haircuts = 50
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|0|0|0|0| => 3
+Given Haircuts = 50
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|1|0|0|0| => 4
+Given Haircuts = 51
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|0|0|0|0| => 3
+Given Haircuts = 51
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|1|0|0|0| => 4
+Given Haircuts = 52
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|0|0|0|0| => 3
+Given Haircuts = 52
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|1|0|0|0| => 4
+Given Haircuts = 53
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|0|0|0|0| => 3
+Given Haircuts = 53
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|1|0|0|0| => 4
+Given Haircuts = 53
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|0|0| => 5
+Given Haircuts = 54
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|1|0|0|0| => 4
+Given Haircuts = 54
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|0|0| => 5
+Given Haircuts = 55
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|1|0|0|0| => 4
+Given Haircuts = 55
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|0|0| => 5
+Given Haircuts = 56
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|1|0|0|0| => 4
+Given Haircuts = 56
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|0|0| => 5
+Given Haircuts = 57
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|1|0|0|0| => 4
+Given Haircuts = 57
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|0|0| => 5
+Given Haircuts = 57
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|1|0| => 6
+Given Haircuts = 58
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|0|0| => 5
+Given Haircuts = 58
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|1|0| => 6
+Given Haircuts = 59
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|0|0| => 5
+Given Haircuts = 59
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|1|0| => 6
+Given Haircuts = 60
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|0|0| => 5
+Given Haircuts = 60
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|1|0| => 6
+Given Haircuts = 60
+Salon full = 0 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|1|1| => 7
+Given Haircuts = 61
+Salon full = 1 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|1|0| => 6
+Given Haircuts = 61
+Salon full = 1 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|1|1| => 7
+Given Haircuts = 62
+Salon full = 2 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|1|0| => 6
+Given Haircuts = 62
+Salon full = 2 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|1|1| => 7
+Given Haircuts = 63
+Salon full = 3 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|1|0| => 6
+Given Haircuts = 63
+Salon full = 3 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|1|1| => 7
+Given Haircuts = 64
+Salon full = 4 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|1|0| => 6
+Given Haircuts = 64
+Salon full = 4 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|1|1| => 7
+Given Haircuts = 64
+Salon full = 5 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|1|1| => 7
+Given Haircuts = 65
+Salon full = 6 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|1|0| => 6
+Given Haircuts = 65
+Salon full = 6 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|1|1| => 7
+Given Haircuts = 66
+Salon full = 7 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|1|0| => 6
+Given Haircuts = 66
+Salon full = 7 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|1|1| => 7
+Given Haircuts = 66
+Salon full = 8 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|1|1| => 7
+Given Haircuts = 67
+Salon full = 9 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|1|0| => 6
+Given Haircuts = 67
+Salon full = 9 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|1|1| => 7
+Given Haircuts = 68
+Salon full = 10 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|1|0| => 6
+Given Haircuts = 68
+Salon full = 10 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|1|1| => 7
+Given Haircuts = 69
+Salon full = 11 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|1|0| => 6
+Given Haircuts = 69
+Salon full = 11 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|1|1| => 7
+Given Haircuts = 70
+Salon full = 12 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|1|0| => 6
+Given Haircuts = 70
+Salon full = 12 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|1|1| => 7
+Given Haircuts = 71
+Salon full = 13 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|1|0| => 6
+Given Haircuts = 71
+Salon full = 13 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|1|1| => 7
+Given Haircuts = 72
+Salon full = 14 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|1|0| => 6
+Given Haircuts = 73
+Salon full = 14 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|0|0| => 5
+Given Haircuts = 73
+Salon full = 14 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|1|0| => 6
+Given Haircuts = 74
+Salon full = 14 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|0|0| => 5
+Given Haircuts = 74
+Salon full = 14 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|1|0| => 6
+Given Haircuts = 75
+Salon full = 14 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|0|0| => 5
+Given Haircuts = 75
+Salon full = 14 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|1|0| => 6
+Given Haircuts = 76
+Salon full = 14 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|0|0| => 5
+Given Haircuts = 76
+Salon full = 14 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|1|0| => 6
+Given Haircuts = 77
+Salon full = 14 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|0|0| => 5
+Given Haircuts = 77
+Salon full = 14 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|1|0| => 6
+Given Haircuts = 78
+Salon full = 14 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|0|0| => 5
+Given Haircuts = 78
+Salon full = 14 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|1|0| => 6
+Given Haircuts = 79
+Salon full = 14 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|0|0| => 5
+Given Haircuts = 79
+Salon full = 14 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|0|0| => 5
+Given Haircuts = 80
+Salon full = 14 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|0|0| => 5
+Given Haircuts = 81
+Salon full = 14 times
+Salon Empty = 7 times
+
+|1|1|1|1|0|0|0| => 4
+Given Haircuts = 81
+Salon full = 14 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|0|0| => 5
+Given Haircuts = 82
+Salon full = 14 times
+Salon Empty = 7 times
+
+|1|1|1|1|0|0|0| => 4
+Given Haircuts = 82
+Salon full = 14 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|0|0| => 5
+Given Haircuts = 83
+Salon full = 14 times
+Salon Empty = 7 times
+
+|1|1|1|1|0|0|0| => 4
+Given Haircuts = 83
+Salon full = 14 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|0|0| => 5
+Given Haircuts = 84
+Salon full = 14 times
+Salon Empty = 7 times
+
+|1|1|1|1|0|0|0| => 4
+Given Haircuts = 84
+Salon full = 14 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|0|0| => 5
+Given Haircuts = 85
+Salon full = 14 times
+Salon Empty = 7 times
+
+|1|1|1|1|0|0|0| => 4
+Given Haircuts = 85
+Salon full = 14 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|0|0| => 5
+Given Haircuts = 86
+Salon full = 14 times
+Salon Empty = 7 times
+
+|1|1|1|1|0|0|0| => 4
+Given Haircuts = 86
+Salon full = 14 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|0|0| => 5
+Given Haircuts = 87
+Salon full = 14 times
+Salon Empty = 7 times
+
+|1|1|1|1|0|0|0| => 4
+Given Haircuts = 87
+Salon full = 14 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|0|0| => 5
+Given Haircuts = 88
+Salon full = 14 times
+Salon Empty = 7 times
+
+|1|1|1|1|0|0|0| => 4
+Given Haircuts = 89
+Salon full = 14 times
+Salon Empty = 7 times
+
+|1|1|1|0|0|0|0| => 3
+Given Haircuts = 89
+Salon full = 14 times
+Salon Empty = 7 times
+
+|1|1|1|1|0|0|0| => 4
+Given Haircuts = 90
+Salon full = 14 times
+Salon Empty = 7 times
+
+|1|1|1|0|0|0|0| => 3
+Given Haircuts = 90
+Salon full = 14 times
+Salon Empty = 7 times
+
+|1|1|1|1|0|0|0| => 4
+Given Haircuts = 90
+Salon full = 14 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|0|0| => 5
+Given Haircuts = 91
+Salon full = 14 times
+Salon Empty = 7 times
+
+|1|1|1|1|0|0|0| => 4
+Given Haircuts = 91
+Salon full = 14 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|0|0| => 5
+Given Haircuts = 92
+Salon full = 14 times
+Salon Empty = 7 times
+
+|1|1|1|1|0|0|0| => 4
+Given Haircuts = 92
+Salon full = 14 times
+Salon Empty = 7 times
+
+|1|1|1|1|0|0|0| => 4
+Given Haircuts = 93
+Salon full = 14 times
+Salon Empty = 7 times
+
+|1|1|1|1|0|0|0| => 4
+Given Haircuts = 93
+Salon full = 14 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|0|0| => 5
+Given Haircuts = 94
+Salon full = 14 times
+Salon Empty = 7 times
+
+|1|1|1|1|0|0|0| => 4
+Given Haircuts = 95
+Salon full = 14 times
+Salon Empty = 7 times
+
+|1|1|1|0|0|0|0| => 3
+Given Haircuts = 95
+Salon full = 14 times
+Salon Empty = 7 times
+
+|1|1|1|1|0|0|0| => 4
+Given Haircuts = 96
+Salon full = 14 times
+Salon Empty = 7 times
+
+|1|1|1|0|0|0|0| => 3
+Given Haircuts = 96
+Salon full = 14 times
+Salon Empty = 7 times
+
+|1|1|1|1|0|0|0| => 4
+Given Haircuts = 96
+Salon full = 14 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|0|0| => 5
+Given Haircuts = 97
+Salon full = 14 times
+Salon Empty = 7 times
+
+|1|1|1|1|0|0|0| => 4
+Given Haircuts = 98
+Salon full = 14 times
+Salon Empty = 7 times
+
+|1|1|1|1|0|0|0| => 4
+Given Haircuts = 98
+Salon full = 14 times
+Salon Empty = 7 times
+
+|1|1|1|1|0|0|0| => 4
+Given Haircuts = 98
+Salon full = 14 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|0|0| => 5
+Given Haircuts = 99
+Salon full = 14 times
+Salon Empty = 7 times
+
+|1|1|1|1|0|0|0| => 4
+Given Haircuts = 99
+Salon full = 14 times
+Salon Empty = 7 times
+
+|1|1|1|1|1|0|0| => 5
+Given Haircuts = 100
+Salon full = 14 times
+Salon Empty = 7 times
+
+|1|1|1|1|0|0|0| => 4
+Given Haircuts = 100
+
+|1|1|1|1|0|0|0| => 4
+Salon full = 14 times
+Given Haircuts = 101
+Salon full = 14 times
+Salon Empty = 7 times
+Salon Empty = 7 times
+
+|1|1|1|1|0|0|0| => 4
+Given Haircuts = 102
+Salon full = 14 times
+Salon Empty = 7 times
+
+|1|1|1|0|0|0|0| => 3
+Given Haircuts = 102
+Salon full = 14 times
+Salon Empty = 7 times
+
+|1|1|1|1|0|0|0| => 4
+Given Haircuts = 103
+Salon full = 14 times
+Salon Empty = 7 times
+
+|1|1|1|0|0|0|0| => 3
+Given Haircuts = 103
+Salon full = 14 times
+Salon Empty = 7 times
+
+|1|1|1|1|0|0|0| => 4
+Given Haircuts = 104
+Salon full = 14 times
+Salon Empty = 7 times
+
+|1|1|1|0|0|0|0| => 3
+Given Haircuts = 104
+Salon full = 14 times
+Salon Empty = 7 times
+
+|1|1|1|1|0|0|0| => 4
+Given Haircuts = 105
+Salon full = 14 times
+Salon Empty = 7 times
+
+|1|1|1|0|0|0|0| => 3
+Given Haircuts = 105
+Salon full = 14 times
+Salon Empty = 7 times
+
+|1|1|1|1|0|0|0| => 4
+Given Haircuts = 106
+Salon full = 14 times
+Salon Empty = 7 times
+
+|1|1|1|0|0|0|0| => 3
+Given Haircuts = 106
+Salon full = 14 times
+Salon Empty = 7 times
+
+|1|1|1|1|0|0|0| => 4
+Given Haircuts = 107
+Salon full = 14 times
+Salon Empty = 7 times
+
+|1|1|1|0|0|0|0| => 3
+Given Haircuts = 108
+Salon full = 14 times
+Salon Empty = 7 times
+
+|1|1|1|0|0|0|0| => 3
+Given Haircuts = 108
+Salon full = 14 times
+Salon Empty = 7 times
+
+|1|1|1|0|0|0|0| => 3
+Given Haircuts = 109
+Salon full = 14 times
+Salon Empty = 7 times
+
+|1|1|0|0|0|0|0| => 2
+Given Haircuts = 109
+Salon full = 14 times
+Salon Empty = 7 times
+
+|1|1|1|0|0|0|0| => 3
+Given Haircuts = 110
+Salon full = 14 times
+Salon Empty = 7 times
+
+|1|1|0|0|0|0|0| => 2
+Given Haircuts = 110
+Salon full = 14 times
+Salon Empty = 7 times
+
+|1|1|1|0|0|0|0| => 3
+Given Haircuts = 111
+Salon full = 14 times
+Salon Empty = 7 times
+
+|1|1|0|0|0|0|0| => 2
+Given Haircuts = 111
+Salon full = 14 times
+Salon Empty = 7 times
+
+|1|1|1|0|0|0|0| => 3
+Given Haircuts = 112
+Salon full = 14 times
+Salon Empty = 7 times
+
+|1|1|0|0|0|0|0| => 2
+Given Haircuts = 112
+Salon full = 14 times
+Salon Empty = 7 times
+
+|1|1|1|0|0|0|0| => 3
+Given Haircuts = 113
+Salon full = 14 times
+Salon Empty = 7 times
+
+|1|1|0|0|0|0|0| => 2
+Given Haircuts = 113
+Salon full = 14 times
+Salon Empty = 7 times
+
+|1|1|1|0|0|0|0| => 3
+Given Haircuts = 114
+Salon full = 14 times
+Salon Empty = 7 times
+
+|1|1|0|0|0|0|0| => 2
+Given Haircuts = 115
+Salon full = 14 times
+Salon Empty = 7 times
+
+|1|0|0|0|0|0|0| => 1
+Given Haircuts = 115
+Salon full = 14 times
+Salon Empty = 7 times
+
+|1|1|0|0|0|0|0| => 2
+Given Haircuts = 116
+Salon full = 14 times
+Salon Empty = 7 times
+
+|1|0|0|0|0|0|0| => 1
+Given Haircuts = 116
+Salon full = 14 times
+Salon Empty = 7 times
+
+|1|1|0|0|0|0|0| => 2
+Given Haircuts = 117
+Salon full = 14 times
+Salon Empty = 7 times
+
+|1|0|0|0|0|0|0| => 1
+Given Haircuts = 117
+Salon full = 14 times
+Salon Empty = 7 times
+
+|1|1|0|0|0|0|0| => 2
+Given Haircuts = 118
+Salon full = 14 times
+Salon Empty = 7 times
+
+|1|0|0|0|0|0|0| => 1
+Given Haircuts = 119
+Salon full = 14 times
+Salon Empty = 7 times
+
+|0|0|0|0|0|0|0| => 0
+Given Haircuts = 120
+Salon full = 14 times
+Salon Empty = 8 times
+
+120 Customers got served! 
